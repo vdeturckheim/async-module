@@ -1,0 +1,23 @@
+{
+  "name": "async-module",
+  "version": "0.0.1",
+  "description": "Allow use of await directly in node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/async-module.git"
+  },
+  "keywords": [
+    "async",
+    "await"
+  ],
+  "author": "vdeturckheim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/async-module/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/async-module#readme"
+}
